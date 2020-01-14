@@ -1,0 +1,12 @@
+psudeo code
+\variables
+textbox for user input
+title/ header
+buttons for each time window
+live times and dates
+
+
+functions
+generate boxes in order 
+apply live date and time 
+functiong save button into local storage
