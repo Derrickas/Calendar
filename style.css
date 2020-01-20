@@ -2,3 +2,7 @@
 background: black;
 font: white;
 }
+
+div#planner {
+    width: 100%;
+}
